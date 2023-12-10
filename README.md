@@ -1,6 +1,6 @@
 ### Hi :raising_hand: I'm Oussema Mestiri
 
-- :computer: a Digital Marcom Professional.
+- :computer: a Software Engineer.
 - :heart: I love to write, design prototypes, build websites and web applications.
 - :electric_plug: **My GOAL: work as a Software engineer is to become a project manager handling architectures and all that**.
 - :octocat: I am open to collaborate with other digital content creators.
